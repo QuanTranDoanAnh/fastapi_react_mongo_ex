@@ -1,5 +1,4 @@
-backend/venv
-backend/venv
+backend/venv/
 backend/.env
 # Byte-compiled / optimized / DLL files
 backend/__pycache__/
